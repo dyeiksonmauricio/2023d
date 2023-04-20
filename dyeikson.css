@@ -1,19 +1,13 @@
 .cabecalho
 {
-    background-color: aqua;
+background-color: aliceblue;
 }
-h1 { 
+h1{
     text-align: center;
 
- }
-h2 {
-    background-color: blueviolet;
+backdround-color: aquamarine
 }
-.imagem{ 
-    width: 20px ;
-    background-image: linear-gradient(#383d58);
+h3{
+    font-size: 30px ;
 }
-p { 
-    font-size: 18px;
-}
-.paragafo { 
+
